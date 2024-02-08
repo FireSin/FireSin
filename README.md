@@ -17,7 +17,7 @@
 
 ## Контакты
 
-- Электронная почта: fire-greh@yandex.ru
+- Электронная почта: kubantsev.artur@yandex.ru
 
 <!---
 FireSin/FireSin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
